@@ -1,13 +1,13 @@
 {
-  "name": "parcel-project-template",
+  "name": "team-project-ice-cream",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
-  "homepage": "https://Kylory.github.io/team-project",
+  "homepage": "https://AnnaChebrova.github.io/team-project-ice-cream",
   "scripts": {
     "dev": "parcel src/*.html",
     "build": "parcel build src/*.html",
-    "predeploy": "npm run build -- --public-url /team-project/",
+    "predeploy": "npm run build -- --public-url /team-project-ice-cream/",
     "deploy": "gh-pages -d dist"
   },
   "repository": {
